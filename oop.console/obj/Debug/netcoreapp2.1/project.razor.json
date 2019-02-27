@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Desenv\\Estudos\\DotNet\\EstudosOO\\Balta.IO.OOP_Series\\OOP_Series\\oop.console\\oop.console.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

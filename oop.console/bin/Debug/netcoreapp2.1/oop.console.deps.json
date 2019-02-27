@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "oop.console/1.0.0": {
+        "dependencies": {
+          "oop.domain": "1.0.0"
+        },
+        "runtime": {
+          "oop.console.dll": {}
+        }
+      },
+      "oop.domain/1.0.0": {
+        "runtime": {
+          "oop.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oop.console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "oop.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\oop.tests.deps.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\oop.tests.runtimeconfig.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\oop.tests.runtimeconfig.dev.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\oop.tests.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\bin\Debug\netcoreapp2.1\oop.tests.pdb
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.csprojAssemblyReference.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.csproj.CoreCompileInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.AssemblyInfoInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.AssemblyInfo.cs
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.tests\obj\Debug\netcoreapp2.1\oop.tests.pdb

@@ -1,0 +1,9 @@
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\bin\Debug\netstandard2.0\oop.domain.deps.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\bin\Debug\netstandard2.0\oop.domain.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\bin\Debug\netstandard2.0\oop.domain.pdb
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.csprojAssemblyReference.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.csproj.CoreCompileInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.AssemblyInfoInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.AssemblyInfo.cs
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.domain\obj\Debug\netstandard2.0\oop.domain.pdb

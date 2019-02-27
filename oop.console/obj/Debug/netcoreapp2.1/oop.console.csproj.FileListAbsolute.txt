@@ -1,0 +1,14 @@
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.console.deps.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.console.runtimeconfig.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.console.runtimeconfig.dev.json
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.console.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.console.pdb
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.domain.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\bin\Debug\netcoreapp2.1\oop.domain.pdb
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.csprojAssemblyReference.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.csproj.CoreCompileInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.AssemblyInfoInputs.cache
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.AssemblyInfo.cs
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.csproj.CopyComplete
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.dll
+D:\Desenv\Estudos\DotNet\EstudosOO\Balta.IO.OOP_Series\OOP_Series\oop.console\obj\Debug\netcoreapp2.1\oop.console.pdb
